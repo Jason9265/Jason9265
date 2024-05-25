@@ -1,7 +1,7 @@
 # Hi there, I'm Jason Feng 👋
 
 ## 🛠 Skills
-- **Languages**: Python, PHP, JavaScript, Java, C#
+- **Languages**: Python, PHP, JavaScript, Node.js, Java, C#
 - **Frameworks**: React, Django, React Native, Spring Boot
 - **Tools**: MySQL, SQLite3, Git CLI, Docker
 
