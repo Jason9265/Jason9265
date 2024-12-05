@@ -4,7 +4,7 @@
 - **Languages**: Python, PHP, TypeScript, JavaScript, Java, C#
 - **Frameworks**: React, Django, React Native, Next.js
 - **Databases**: MySQL, MongoDB, SQLite3
-- **Tools**: GitHub Actions, Docker
+- **Tools**: GitHub Actions, Docker, TDD, Jest
 
 ## 🚀 About Me
 - As a Full Stack Developer with 2 years of experience, I bring a solid foundation in web design processes and a proven track record of delivering high-quality code and innovative solutions within agile development teams. My educational background has equipped me with a diverse skill set, including scripting languages, CI/CD, mobile application development and database operations.
